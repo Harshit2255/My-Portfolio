@@ -25,7 +25,7 @@ SECRET_KEY = 'Enter Your Secret Key'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["localhost", "harshit-solanki-portfolio.herokuapp.com"]
 
 
 # Application definition
